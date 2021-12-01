@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+.ftable{
+    margin-left: auto;
+    margin-right: auto;
+}
+.finput{
+    border-radius: 0.5px;
+}
